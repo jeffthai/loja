@@ -1,0 +1,6 @@
+function ProdutoController($scope) {
+	"use strict";
+	
+	$scope.produtos = produtos;
+
+}
